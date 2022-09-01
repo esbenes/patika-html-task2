@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <body>
+    <h1>Enes Buyukcelebi</h1>
+    <!--Kendimden bahsettigim kisim-->
+    <h2>Hakkimda</h2>
+    <p>
+      Merhaba,ben Enes ODTU'de son sinif Ingilizce Ogretmenligi
+      ogrencisiyim.<br>Kendimi Web Development alaninda gelistiriyorum.
+    </p>
+    <!--Kisaca hobilerimden bahsettigim bolum-->
+    <h2>Ilgi Alanlarim</h2>
+    <ol>
+    <li>Film</li>
+    <ul>
+     <li><a href="https://www.imdb.com/title/tt0499549/" target="_blank">Avatar</a> </li>
+      <li>Toy Story</li>
+      <li>Cars</li>
+    </ul>
+    <li>Dizi</li>
+    <ul>
+      <li><a href="https://www.imdb.com/title/tt0386676/" target="_blank">The Office</a></li>
+      <li>Brooklyn Nine Nine</li>
+      <li>Sherlock Holmes</li>
+    </ul>
+    <li>Kitap</li>
+    <ul>
+      <li><a href="https://www.goodreads.com/bg/book/show/18297991-eker-portakal" target="_blank">Seker Portakali</a></li>
+      <li>Oliver Twist</li>
+      <li>Beyaz Dis</li>
+    </ul>
+    </ol>
+    <img src="/514XoLkSrzL._AC_SY1000_.jpg" alt="" />
+    <p>En sevdigim dizi olan The Office.</p>
+  </body>
+</head>
